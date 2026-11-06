@@ -10,20 +10,14 @@
 
 ## 📚 Publications
 
-### ALTSTEER: Selective Safety Steering for Moving Beyond Hard Refusals to Constructive Alternatives
+- **ALTSTEER: Selective Safety Steering for Moving Beyond Hard Refusals to Constructive Alternatives**  
+  **Hoejoon Kwon**, Byeonggeuk Lim, Kahyeon Kim, YoungBin Kim  
+  *EMNLP 2026 Main Conference*
 
-**Hoejoon Kwon**, Byeonggeuk Lim, Kahyeon Kim, YoungBin Kim
+- **Beyond Safe Answers: Segment-Aware Listwise Alignment for Reasoning Safety in Large Reasoning Models**  
+  JungMin Yun, Junehyoung Kwon, Hayeong Ryu, Byeonggeuk Lim, **Hoejoon Kwon**, YoungBin Kim  
+  *EMNLP 2026 Main Conference*
 
-*EMNLP 2026 Main Conference*
-
-### Beyond Safe Answers: Segment-Aware Listwise Alignment for Reasoning Safety in Large Reasoning Models
-
-JungMin Yun, Junehyoung Kwon, Hayeong Ryu, Byeonggeuk Lim, **Hoejoon Kwon**, YoungBin Kim
-
-*EMNLP 2026 Main Conference*
-
-### Narrative Consistency in Large Language Model-Generated Stories: A Survey
-
-Keunhyeung Park, Seunguk Yu, Jinhee Jang, **Hoejoon Kwon**, Byeonggeuk Lim, YoungBin Kim
-
-*IEEE Access, 2026*
+- **Narrative Consistency in Large Language Model-Generated Stories: A Survey**  
+  Keunhyeung Park, Seunguk Yu, Jinhee Jang, **Hoejoon Kwon**, Byeonggeuk Lim, YoungBin Kim  
+  *IEEE Access, 2026*
