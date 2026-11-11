@@ -1,7 +1,7 @@
 
 ## 👋 Bio
 
-Hello World! I am an M.S. student at Chung-Ang University, advised by [Prof. YoungBin Kim](https://iiplcau.github.io/). My research interests lie in Natural Language Processing, with a particular focus on large language model safety and reasoning.
+Hello World! I am an M.S. student at Chung-Ang University, advised by [Prof. YoungBin Kim](https://iiplcau.github.io/). My research interests lie in Natural Language Processing, with a particular focus on Large Language Model Safety and Reasoning.
 
 
 ## 🎓 Education
