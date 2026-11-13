@@ -17,10 +17,9 @@ Hello World! I am an **M.S. Student** at Chung-Ang University, advised by [Prof.
 ## 📚 Publications
 
 
-- **Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning**
+- **Isolating the Language Shell: A Content-Controlled Study of Multilingual Reasoning**  
   **Hoejoon Kwon**, Jinhee Jang, Byeonggeuk Lim, YoungBin Kim  
-  *EACL 2027 (Findings)*
-
+  *EACL 2027 (Findings*
 
 - **ALTSTEER: Selective Safety Steering for Moving Beyond Hard Refusals to Constructive Alternatives**  
   **Hoejoon Kwon**, Byeonggeuk Lim, Kahyeon Kim, YoungBin Kim  
